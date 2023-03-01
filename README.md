@@ -36,6 +36,7 @@ Users should be able to see hover states for interactive elements.
 ### Links
 
 - Frontend Mentor solution url: https://www.frontendmentor.io/solutions/interactiveratingcomponentmain-using-html-css-and-javascript-9YnWYiq3Dv
+- Live Site URL: https://jijinet.github.io/interactive-rating-component-main/
 - Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=NguOZbLmZSGhEVHT8wPozw
 - GitHub repo : https://github.com/Jijinet/interactive-rating-component-main
 
