@@ -33,13 +33,11 @@ Users should be able to see hover states for interactive elements.
 ![Mobile view](./screenshots/Capture%20d%E2%80%99%C3%A9cran%202023-03-01%20114203.png)
 ![Mobile view](./screenshots/Capture%20d%E2%80%99%C3%A9cran%202023-03-01%20114248.png)
 
-
 ### Links
 
-- Frontend Mentor solution url: https://www.frontendmentor.io/solutions/nft-preview-card-component-esjPYS6HLk
-- Live Site URL: https://atif-dev.github.io/nft-preview__card-component/
-- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=neNUY4bkGPNZr8tpbflMEw
-- GitHub repo : https://github.com/atif-dev/nft-preview__card-component
+- Frontend Mentor solution url: https://www.frontendmentor.io/solutions/interactiveratingcomponentmain-using-html-css-and-javascript-9YnWYiq3Dv
+- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=NguOZbLmZSGhEVHT8wPozw
+- GitHub repo : https://github.com/Jijinet/interactive-rating-component-main
 
 ## My process
 
