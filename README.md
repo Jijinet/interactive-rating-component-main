@@ -1,6 +1,6 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -22,7 +22,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 Users should be able to:
 
-Build out Order summary card component and get it looking as close to the design as possible
+Build out Interactive rating component component and get it looking as close to the design as possible
 Users should be able to view the optimal layout depending on their device's screen size.
 Users should be able to see hover states for interactive elements.
 
